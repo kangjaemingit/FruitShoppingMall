@@ -19,7 +19,7 @@
 
     #---전화번호 형식에 맞게 만들기---#
     $mem_telephone = $mem_tel1 .$mem_tel2 .$mem_tel3;
-   
+
     #---우편번호 형식에 맞게 만들기---#
     $mem_zip = $mem_zip1. "-" .$mem_zip2;
 
