@@ -52,9 +52,6 @@
                         <div class = "d-grid gap-2 col-2 mx-auto">
                             <button type="submit" class="btn btn-primary">수정완료</button>
                         </div>
-                        
-                        
-
                     </form>
             <?php
                 }

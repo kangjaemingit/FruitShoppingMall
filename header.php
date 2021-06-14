@@ -65,9 +65,6 @@
             <a class="nav-link" href="./product_list.php">상점보기</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./cart.php">장바구니보기</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="./login.php">로그인하기</a>
           </li>
         </ul>
